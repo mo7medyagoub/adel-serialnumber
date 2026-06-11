@@ -1,0 +1,10 @@
+{
+  "name": "تطبيق عادل - لحفظ اكواد التلفونات",
+  "description": "تطبيق لحفظ أكواد التلفونات باستخدام رقم السيريال",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
